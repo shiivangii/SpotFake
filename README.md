@@ -1,9 +1,12 @@
 # SpotFake
 This repository contains code and dataset for the paper titled: SpotFake: A multimodal framework for fake news detection published in BigMM 2019.
 
-# Link to Paper: http://precog.iiitd.edu.in/pubs/SpotFake-IEEE_BigMM.pdf
-# Link to Presentation: https://docs.google.com/presentation/d/1sFtwYI2Lnpl1XtYtaFpUcj-D9o6JJP5DS8zyL_2w3Fs/edit?usp=sharing
-# Link to Poster: https://drive.google.com/open?id=12UUWQ-L18qdATligfPh7DEQw2ktOC0u0
+# 
+Link to Paper: http://precog.iiitd.edu.in/pubs/SpotFake-IEEE_BigMM.pdf
+# 
+Link to Presentation: https://docs.google.com/presentation/d/1sFtwYI2Lnpl1XtYtaFpUcj-D9o6JJP5DS8zyL_2w3Fs/edit?usp=sharing
+# 
+Link to Poster: https://drive.google.com/open?id=12UUWQ-L18qdATligfPh7DEQw2ktOC0u0
 
 The propose architecture aims to detect whether a given news article is real or fake. It does not take into account any
 other sub-task in the detection process. The prime novelty of SpotFake is to incorporate the power of language models, i.e. Bidirectional Encoder Representations from Transformers (BERT) to incorporate contextual information. The image features are learned from VGG-19 pre-trained on ImageNet dataset.
