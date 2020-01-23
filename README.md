@@ -26,15 +26,23 @@ All the necessary libraries used in implementation is listed in 'environment.yml
 # Citation
 If this code or dataset is useful for your research, please cite our paper:
 
-[ @inproceedings{SpotFake,
+@inproceedings{SpotFake,
+
       author ={Singhal, Shivangi and Shah, Rajiv and Chakraborty, Tanmoy and Kumaraguru, Ponnurangam and Shin'ichi Satoh},
+      
       title = {SpotFake: A Multimodal Framework for Fake News Detection},
+      
       booktitle = {IEEE BigMM},
-      year={2019},
+     
+     year={2019},
+     
      location={Singapore},
+     
      url={http://precog.iiitd.edu.in/pubs/SpotFake-IEEE_BigMM.pdf},
+     
      keywords={Multimodal Fake News Detection, Machine Learning, Deep Learning}
+     
      }
-]
+
 
 
