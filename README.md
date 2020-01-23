@@ -1,5 +1,5 @@
 # SpotFake
-This repository contains code and dataset for the paper titled: SpotFake: A multimodal framework for fake news detection published in BigMM 2019.
+This repository contains code and dataset for the paper titled: SpotFake: A multimodal framework for fake news detection published in BigMM 2019 (Best Poster Award). 
 
 The propose architecture aims to detect whether a given news article is real or fake. It does not take into account any
 other sub-task in the detection process.
@@ -37,5 +37,6 @@ If this code or dataset is useful for your research, please cite our paper:
      keywords={Multimodal Fake News Detection, Machine Learning, Deep Learning}
      }
 
-
+### Note
+We also created [SpotFake+](  ), an advanced version of SpotFake that deals with long (full) length articles. The [paper] ( ) got accepted as a short paper in AAAI 2020.
 
